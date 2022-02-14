@@ -1,0 +1,20 @@
+D:\VB\Hasta kayıt\bin\Debug\Hasta kayıt.exe.config
+D:\VB\Hasta kayıt\bin\Debug\Hasta kayıt.exe
+D:\VB\Hasta kayıt\bin\Debug\Hasta kayıt.pdb
+D:\VB\Hasta kayıt\obj\Debug\Hasta kayıt.csprojAssemblyReference.cache
+D:\VB\Hasta kayıt\obj\Debug\Hasta_kayıt.Form1.resources
+D:\VB\Hasta kayıt\obj\Debug\Hasta_kayıt.Properties.Resources.resources
+D:\VB\Hasta kayıt\obj\Debug\Hasta kayıt.csproj.GenerateResource.cache
+D:\VB\Hasta kayıt\obj\Debug\Hasta kayıt.exe
+D:\VB\Hasta kayıt\obj\Debug\Hasta kayıt.pdb
+D:\VB\Hasta kayıt\obj\Debug\Hasta kayıt.csproj.CoreCompileInputs.cache
+E:\Derslerim\VB\Hasta kayıt\bin\Debug\Hasta kayıt.exe.config
+E:\Derslerim\VB\Hasta kayıt\bin\Debug\Hasta kayıt.exe
+E:\Derslerim\VB\Hasta kayıt\bin\Debug\Hasta kayıt.pdb
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta kayıt.csproj.AssemblyReference.cache
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta_kayıt.Form1.resources
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta_kayıt.Properties.Resources.resources
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta kayıt.csproj.GenerateResource.cache
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta kayıt.csproj.CoreCompileInputs.cache
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta kayıt.exe
+E:\Derslerim\VB\Hasta kayıt\obj\Debug\Hasta kayıt.pdb
